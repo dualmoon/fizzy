@@ -1,7 +1,7 @@
 {
   "name": "fizzy-dark",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.0.0",
   "private": true,
   "description": "A darker version of jglovier's beautiful Fizzy theme.",
   "repository": "https://github.com/dualmoon/fizzy-dark",
